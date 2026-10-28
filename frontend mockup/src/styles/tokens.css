@@ -1,0 +1,6 @@
+:root {
+  --bg:#F5F7FA; --sidebar:#EDF0F4; --surface:#FFFFFF; --surface-subtle:#FAFBFC;
+  --border:#DDE2EA; --hairline:#E6EAF0; --dashed:#C4CCD8;
+  --text:#141A24; --text-2:#5B6676; --text-3:#8A94A3; --chip:#F0F3F7;
+  --accent:#0E7F92;
+}
